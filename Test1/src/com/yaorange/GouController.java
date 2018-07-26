@@ -2,7 +2,8 @@ package com.yaorange;
 
 public class GouController {
 	public static void main(String[] args) {
-		System.out.println("¹·");
+		System.out.println("Â¹Â·");
+		System.out.orintln("1");
 	}
 
 }
