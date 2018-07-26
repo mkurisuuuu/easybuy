@@ -4,5 +4,5 @@ public class MasterController {
 	public static void main(String[] args) {
 		System.out.println("Master");
 		
-//123
+//1
 }
